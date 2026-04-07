@@ -25,11 +25,11 @@
 
 ### 時程規劃
 <!-- 各週預計完成的進度 -->
-Week 7：完成Proposal
-Week 8-9：設計Photocard資料型態，實作基礎資料輸入與顯示功能
-Week 10-11：實作Linked List，完成鏈路動態插入與刪除
-Week 12-13：實作撤銷功能和管理代處理請求
-Week 14：進行Big O效能實測、Error Handling等並繳交最終版本
+Week 7：完成Proposal<br>
+Week 8-9：設計Photocard資料型態，實作基礎資料輸入與顯示功能<br>
+Week 10-11：實作Linked List，完成鏈路動態插入與刪除<br>
+Week 12-13：實作撤銷功能和管理代處理請求<br>
+Week 14：進行Big O效能實測、Error Handling等並繳交最終版本<br>
 
 ### 與課程的關聯
 <!-- 你的專題可能涉及哪些資料結構或演算法概念？為什麼？ -->
