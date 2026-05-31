@@ -1,0 +1,20 @@
+GROUP aespa
+MEMBER Karina
+MEMBER Giselle
+MEMBER Winter
+MEMBER Ningning
+VERSION Drama
+VERSION Supernova
+VERSION Armageddon
+
+GROUP NCT_DREAM
+MEMBER Mark
+MEMBER Renjun
+MEMBER Jeno
+MEMBER Haechan
+MEMBER Jaemin
+MEMBER Chenle
+MEMBER Jisung
+VERSION Candy
+VERSION ISTJ
+VERSION Smoothie
